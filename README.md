@@ -52,13 +52,11 @@ cd interview-scheduler
 
 Install dependencies:
 
-```bash
-npm install
+```bash npm install
 
 Start the development server:
 
-```bash
-npm start
+```bash npm start
 
 Open http://localhost:3000 to view it in your browser.
 
