@@ -42,7 +42,7 @@ A modern, responsive React application for managing and scheduling interviews ef
 git clone https://github.com/riteshp2008 /interview-scheduler.git
 cd interview-scheduler
 
-### 📦 Installation
+📦 Installation
 
 ### Clone the repository:
 
@@ -50,12 +50,12 @@ cd interview-scheduler
 git clone https://github.com/yourusername/interview-scheduler.git
 cd interview-scheduler
 
-### Install dependencies:
+Install dependencies:
 
 ```bash
 npm install
 
-### Start the development server:
+Start the development server:
 
 ```bash
 npm start
